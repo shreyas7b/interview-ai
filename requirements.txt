@@ -2,4 +2,3 @@ Flask
 Gunicorn
 boto3 
 pymupdf
-fitz
